@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use SurgBox, please cite the paper below."
+title: "SurgBox"
+repository-code: "https://github.com/M-Hamdy-M/SurgBox"
+license: CC-BY-NC-SA-4.0
+authors:
+  - family-names: Hamdy
+    given-names: Mohamed
+  - family-names: Abdel-Ghani
+    given-names: Muraam
+  - family-names: Ahmed
+    given-names: Fatmaelzahraa
+  - family-names: Nasar
+    given-names: Sifna
+  - family-names: Ahmed
+    given-names: Mariam
+  - family-names: Al-Jalham
+    given-names: Khalid
+  - family-names: Al-Ali
+    given-names: Abdulaziz
+  - family-names: Balakrishnan
+    given-names: Shidin
+preferred-citation:
+  type: conference-paper
+  title: "From Presence Labels to Bounding Boxes: Can Multimodal Large Language Models Scale Surgical Instrument Localization?"
+  conference:
+    name: "Medical Imaging and Computer-Aided Diagnosis (MICAD)"
+  year: 2026
+  url: "https://arxiv.org/abs/2610.34218"
+  authors:
+    - family-names: Hamdy
+      given-names: Mohamed
+    - family-names: Abdel-Ghani
+      given-names: Muraam
+    - family-names: Ahmed
+      given-names: Fatmaelzahraa
+    - family-names: Nasar
+      given-names: Sifna
+    - family-names: Ahmed
+      given-names: Mariam
+    - family-names: Al-Jalham
+      given-names: Khalid
+    - family-names: Al-Ali
+      given-names: Abdulaziz
+    - family-names: Balakrishnan
+      given-names: Shidin

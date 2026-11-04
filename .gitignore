@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+data/
+frames/
+*.pt
+*.pth
